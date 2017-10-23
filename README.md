@@ -1,6 +1,7 @@
 # userLocation
 **2017tianchi competition**
 
+**
 **libsvmUL.scala**
       tansform the raw data to libsvm format
 
@@ -11,7 +12,6 @@
       using decision trees to headle the multiply classes problem
       
  **
- 
 **KNN_longitude_latitude.py**
       knn only using the data of longitude and latitude
 
@@ -22,7 +22,6 @@
       using spark to speed up the knn of using wifi infos, which can finish about several hours
 
 **
-
 **MPUL.scala**
       using maximum likelihood method to locate the users
       
