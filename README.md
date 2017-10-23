@@ -23,9 +23,15 @@
 
 **
 
+**MPUL.scala**
+      using maximum likelihood method to locate the users
+      
 **MAP_UL.scala**
       using the ranking metric ——MAP to judge the sequence of wifis of shop and behavior orderd by the number of occurrences
-
+      
+**CD.scala**
+      using co-occurrence distance which heights the number of common wifis of behavior and shop
+      
 **TrueCheck.scala**
       using only the data of wifis which connection state is true
 
