@@ -6,6 +6,7 @@ Created on Fri Oct 27 14:42:35 2017
 import pandas as pd 
 import pickle
 
+#根据自己的目录修改localpath之后使用
 localpath = "/"
 
 f=open(localpath+'malls.bin','rb')
